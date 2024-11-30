@@ -50,7 +50,7 @@ beautifulsoup4==4.11.1
 Once the dependencies are installed, you can run the vulnerability scanner by executing the Python script:
 
 ```bash
-python scanner.py
+python app.py
 ```
 
 ### Interactive Menu
