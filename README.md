@@ -25,7 +25,7 @@ To install the required dependencies, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/gourav04-hash/vuln-scanner.git
     ```
 
 2. **Install dependencies**:
